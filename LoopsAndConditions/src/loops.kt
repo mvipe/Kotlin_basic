@@ -11,7 +11,7 @@ fun main(){
     for (x in 0..10){
         //0..10 means it will run from 0 to 10
         // 10 is inclusive [0,10]
-        println(x)
+
     }
 
     for (x in 0 until 10){
@@ -22,5 +22,10 @@ fun main(){
         //step 2 means moving 2 position at once
         //[0,2,4,6,8]
 
+    }
+
+    for (x in 10 downTo 0 step 2){
+
+        println(x)
     }
 }

@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorldProgram/HelloWorldProgram.iml" filepath="$PROJECT_DIR$/HelloWorldProgram/HelloWorldProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearnKotlinBasic.iml" filepath="$PROJECT_DIR$/LearnKotlinBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoopsAndConditions/LoopsAndConditions.iml" filepath="$PROJECT_DIR$/LoopsAndConditions/LoopsAndConditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oops/Oops.iml" filepath="$PROJECT_DIR$/Oops/Oops.iml" />
     </modules>
   </component>
 </project>
